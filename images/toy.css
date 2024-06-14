@@ -5,44 +5,40 @@
 }
 .header1{
     position: fixed;
+    height: 120px; 
 }
-.font{
+h5{
     height: 30px;
     width: 100%;
     background-color: rgb(186, 214, 86);
     color: white;
-    word-spacing: 10px;
+    word-spacing: 5px;
     position: fixed;
-    padding-top: 5px;
+    padding-top: 10px;
+    font-size: 15px;
 }
-.nav{
-    height: 80px;
+h2{
+    height: 70px;
     width: 100%;
     background-color: rgb(253, 254, 254);
-    padding-top: 30px;
-    text-decoration: none;
-
-    
+    padding-top: 40px;   
 }
-.nav ul li{
+h2 ul li{
     list-style-type: none;
     display: inline;
-    padding-left: 40px;
-    left: 0px;
-    
-
+    padding-left: 100px;
 }
-.nav ul li a{
-    display: inline;
+h2 ul li a{
+    
     text-decoration: none;
     
 }
 .header2{
-    height: 400px;
+    height: 500px;
     width: 100%;
     background-image: url(images/pic1.jpg);
     background-size: cover;
-    padding-top: 120px;
+    padding-top: 280px;
     padding-left: 20%;
     border-radius: 10px;
     
@@ -52,7 +48,7 @@
     width: 60%;
     align-self:center;
     background-color:rgba(255, 255, 255, 0.947);
-    border-radius: 10px;
+    border-radius: 20px;
     text-align: center;
 
 }
@@ -60,9 +56,9 @@ p{
     text-align: center;
     font-size: 20px;
     padding-top: 40px;
-    color: rgba(80, 126, 45, 0.858);
+    color: rgba(35, 179, 24, 0.858);
 }
-h5{
+h4{
     font-size: 40px;
     padding-bottom: 25px;
 }
