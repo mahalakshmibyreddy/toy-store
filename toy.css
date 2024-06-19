@@ -26,7 +26,8 @@ h2{
 h2 ul li{
     list-style-type: none;
     display: inline;
-    padding-left: 80px;
+    padding-left: 130px;
+    
 }
 h2 ul li a{
     
@@ -35,7 +36,7 @@ h2 ul li a{
 }
 .header2{
     height: 500px;
-    width: 100%;
+    width: 80%;
     background-image: url(images/p2.jfif);
     background-size: cover;
     padding-top: 280px;
@@ -50,6 +51,7 @@ h2 ul li a{
     background-color:rgba(255, 255, 255, 0.947);
     border-radius: 20px;
     text-align: center;
+    margin-left: 30px;
 
 }
 p{
@@ -111,7 +113,7 @@ button{
 }
 .s1{
     height: 2px;
-    width: 140%;
+    width: 100%;
     background-color: blue;
 }
 .section2{
@@ -358,12 +360,12 @@ button{
 }
 .header6{
     height: 500px;
-    width: 140%;
+    width: 100%;
     
 }
 .header6 h3 {
     height:500px ;
-    width: 70%;
+    width: 40%;
     
 }
 .header6  p{
@@ -372,7 +374,7 @@ button{
 }
 .nav2{
     height: 100px;
-    width: 140%;
+    width: 100%;
     background-color:whitesmoke;
 }
 .nav2 h3{
@@ -465,7 +467,7 @@ button{
 }
 .section5{
     height: 400px;
-    width: 150%;
+    width: 100%;
     background-color: yellowgreen;
     color: white;
     margin-top: 50px;
